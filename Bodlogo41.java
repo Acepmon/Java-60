@@ -16,7 +16,7 @@ public class Bodlogo41 {
             }
             
             h++;
-        } while(h<=m);
+        } while(h<m);
         
         if(sum==m) {
             System.out.println(sum);
