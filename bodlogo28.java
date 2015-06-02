@@ -26,7 +26,6 @@ public class Problem28 {
         for (int i = number.length()-1; i>=0; i--)
             reverse = reverse + number.charAt(i);
         System.out.println(reverse);
-        System.out.print(number);
     }
     
 }
